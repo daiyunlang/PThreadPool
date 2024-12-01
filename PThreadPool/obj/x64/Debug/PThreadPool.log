@@ -1,0 +1,10 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.131.128”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  main.cpp
+  PThreadPool.cpp
+  正在链接对象
+  PThreadPool.vcxproj -> D:\CPPTest\PThreadPool\PThreadPool\bin\x64\Debug\PThreadPool.out

@@ -1,0 +1,1 @@
+g++ -o "/home/dyl/VSProject/PThreadPool/bin/x64/Debug/PThreadPool.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/dyl/VSProject/PThreadPool/obj/x64/Debug/main.o /home/dyl/VSProject/PThreadPool/obj/x64/Debug/PThreadPool.o -lpthread
